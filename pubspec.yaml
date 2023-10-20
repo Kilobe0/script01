@@ -23,5 +23,9 @@ flutter:
       fonts:
         - asset: assets/fonts/PixelifySans-Regular.ttf
   assets:
-    - assets/images/sarkareth.png
-    - assets/images/neltharion.png
+    - assets/images/bart.jpg
+    - assets/images/homer.jpg
+    - assets/images/lisa.png
+    - assets/images/marge.jpg
+    - assets/images/meg.png
+    - assets/images/simpsons.jpg
